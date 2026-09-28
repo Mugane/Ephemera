@@ -4,7 +4,7 @@ Ephemera is a self-destructing unencrypted data transfer protocol with an implem
 ## Protocol
 
 - A tab-delimited key-value text file is stored somewhere outside of the web root (if it does not exist, it is created when a key-value is added for the first time).
-- When a user passes a special set of one URL parameter to the script, in this case a key-value pair `$_GET["key"]="value"` (`/?key=value`) it saves the key value pair in a non-public text file.
+- When a user passes a single URL parameter to the script, in this case a key-value pair `$_GET["key"]="value"` (`/?key=value`) it saves the data in a non-public text file.
 - When a user loads the script with a single `$_GET[]` variable (the key), e.g. `/?key`, the script reads the file and looks for a match.
     - If found, it will delete the entry from the store file, log it as used, and display it to the user.
     - If not found it will display an error corresponding to the failure.
