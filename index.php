@@ -68,7 +68,9 @@ if (count($_GET) === 1 && array_values($_GET)[0] === '') { // ?key is a request 
             justify-content: center;
             align-items: center;
             font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
+            background:
+                linear-gradient(to right, rgba(117,189,209,0.5) 0%, rgba(193,234,191,0.7) 100%),
+                linear-gradient(to bottom, rgba(147,206,222,0) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,0.6) 100%);       
         }
         .container {
             text-align: center;
