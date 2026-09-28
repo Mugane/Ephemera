@@ -9,7 +9,9 @@ Ephemera is a self-destructing unencrypted data transfer protocol with an implem
     - If found, it will delete the entry from the store file, log it as used, and display it to the user.
     - If not found it will display an error corresponding to the failure.
 <br />
-<p align="center"><img width="908" height="504" style="margin:0px auto;" alt="Screenshot from 2025-08-20 11-44-24" src="https://github.com/user-attachments/assets/0dfbe797-f7b2-4a37-9f02-ff45ccd07905" /></p>
+<p align="center">
+<img width="1247" height="679" alt="image" src="https://github.com/user-attachments/assets/efed90fb-bca6-4b5a-a735-718c4a8af539" />
+</p>
 
 ## Why it Works
 
