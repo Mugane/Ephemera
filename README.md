@@ -10,7 +10,7 @@ Ephemera is a self-destructing unencrypted data transfer protocol with an implem
     - If not found it will display an error corresponding to the failure.
 <br />
 <p align="center">
-<img width="1281" height="700" alt="image" src="https://github.com/user-attachments/assets/9b45c5f2-0f87-4811-8a96-0b4866e8d945" />
+<img width="841" height="481" alt="image" src="https://github.com/user-attachments/assets/6c76d9dc-fbca-4670-b8d4-994684b4b6f6" />
 </p>
 
 ## Why it Works
