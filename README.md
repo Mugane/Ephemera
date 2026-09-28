@@ -1,5 +1,5 @@
 # Ephemera
-Ephemera is a self-destructing unencrypted data transfer protocol with an implementation in php.
+Ephemera is a self-destructing unencrypted data transfer protocol with an implementation in php. It is a demonstration that **encryption** is not *always necessary* for secure data transfer, at least at the data layer.
 
 ## Protocol
 
